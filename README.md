@@ -11,7 +11,7 @@
     ![My-Badge](https://badgen.net/github/contributors/balramadan/admin-dashboard?color=red)
 
 <br>
-![nice-bakuretsu.gif](https://i.postimg.cc/sg9GjJq1/nice-bakuretsu.gif)
+![nice-bakuretsu](https://github.com/balramadan/balramadan/assets/78259947/cd220f5b-63b4-4daf-a224-a1895389ea3c)
 <!--
 **balramadan/balramadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
