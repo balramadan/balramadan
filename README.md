@@ -2,12 +2,12 @@
 
 ## Project in progress
 - ### [Room Rover (CI)](https://github.com/balramadan/roomrover)
-    Web app booking kamar untuk pemesanan secara online (Coming Soon)<br><br>
+    Room booking web app for online booking (Coming Soon)<br><br>
     ![My-Badge](https://badgen.net/github/last-commit/balramadan/roomrover?color=green)
     ![My-Badge](https://badgen.net/github/commits/balramadan/roomrover?color=green)
     ![My-Badge](https://badgen.net/github/contributors/balramadan/roomrover?color=red)
 - ### [Dashboard App (Vue)](https://github.com/balramadan/admin-dashboard)
-    Template admin dashboard App (Pending)<br><br>
+    App template admin dashboard (Pending)<br><br>
     ![My-Badge](https://badgen.net/github/last-commit/balramadan/admin-dashboard?color=green)
     ![My-Badge](https://badgen.net/github/commits/balramadan/admin-dashboard?color=green)
     ![My-Badge](https://badgen.net/github/contributors/balramadan/admin-dashboard?color=red)
