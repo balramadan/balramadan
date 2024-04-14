@@ -1,11 +1,11 @@
 ### Hi there, I'm Iqbal 👋
 
 ## Project in progress
-- ### [Room Rover (CI)](https://github.com/balramadan/roomrover)
-    Room booking web app for online booking (Coming Soon)<br><br>
-    ![My-Badge](https://badgen.net/github/last-commit/balramadan/roomrover?color=green)
-    ![My-Badge](https://badgen.net/github/commits/balramadan/roomrover?color=green)
-    ![My-Badge](https://badgen.net/github/contributors/balramadan/roomrover?color=red)
+- ### [Stockist (CI)](https://github.com/balramadan/roomrover)
+    Web app stock recording<br><br>
+    ![My-Badge](https://badgen.net/github/last-commit/balramadan/stockist?color=green)
+    ![My-Badge](https://badgen.net/github/commits/balramadan/stockist?color=green)
+    ![My-Badge](https://badgen.net/github/contributors/balramadan/stockist?color=red)
 - ### [Dashboard App (Vue)](https://github.com/balramadan/admin-dashboard)
     App template admin dashboard (Pending)<br><br>
     ![My-Badge](https://badgen.net/github/last-commit/balramadan/admin-dashboard?color=green)
