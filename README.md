@@ -6,11 +6,6 @@
     ![My-Badge](https://badgen.net/github/last-commit/balramadan/stockist?color=green)
     ![My-Badge](https://badgen.net/github/commits/balramadan/stockist?color=green)
     ![My-Badge](https://badgen.net/github/contributors/balramadan/stockist?color=red)
-- ### [Dashboard App (Vue)](https://github.com/balramadan/admin-dashboard)
-    App template admin dashboard (Pending)<br><br>
-    ![My-Badge](https://badgen.net/github/last-commit/balramadan/admin-dashboard?color=green)
-    ![My-Badge](https://badgen.net/github/commits/balramadan/admin-dashboard?color=green)
-    ![My-Badge](https://badgen.net/github/contributors/balramadan/admin-dashboard?color=red)
 
 ## Technologies:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
