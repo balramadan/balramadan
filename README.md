@@ -1,12 +1,5 @@
 ### Hi there, I'm Iqbal 👋
 
-## Project in progress
-- ### [Stockist (CI)](https://github.com/balramadan/roomrover)
-    Web app stock recording<br><br>
-    ![My-Badge](https://badgen.net/github/last-commit/balramadan/stockist?color=green)
-    ![My-Badge](https://badgen.net/github/commits/balramadan/stockist?color=green)
-    ![My-Badge](https://badgen.net/github/contributors/balramadan/stockist?color=red)
-
 ## Technologies:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
