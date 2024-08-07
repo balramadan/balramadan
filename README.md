@@ -1,6 +1,6 @@
 ### Hi there, I'm Iqbal 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=balramadan&margin-w=15&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=balramadan&margin-w=10&margin-h=10&theme=discord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Technologies:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
