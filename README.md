@@ -5,9 +5,6 @@
 ### ✨ Check me out on social media
 <a href="https://instagram.com/balramadan"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/balramadan"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<br>
-<br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=balramadan&margin-w=10&margin-h=10&theme=discord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Technologies:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -34,9 +31,10 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <br> 
 <br>
-![BalRamadan's GitHub stats](https://github-readme-stats.vercel.app/api?username=balramadan&show_icons=true&theme=tokyonight)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balramadan&layout=compact&theme=tokyonight)
+<div style="display: flex; align-items: center;">
+<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=balramadan&show_icons=true&theme=tokyonight" style="margin-right: 20px;">
+<img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balramadan&layout=compact&theme=tokyonight">
+</div>
 <!--
 **balramadan/balramadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
