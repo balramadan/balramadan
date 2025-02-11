@@ -35,8 +35,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 <br> 
 ## Stats:
-<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=balramadan&show_icons=true&theme=tokyonight" style="margin-right: 20px;">
-<img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balramadan&layout=compact&theme=tokyonight">
+<img alt="Stats" src="https://github-readme-stats.vercel.app/api?username=balramadan&show_icons=true&bg_color=30,09122C,872341&title_color=fff&text_color=fff&icon_color=fff&hide_border=true" style="margin-right: 20px;">
+<img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=balramadan&layout=compact&bg_color=30,09122C,872341&title_color=fff&text_color=fff&icon_color=fff&hide_border=true">
 <hr>
 <!--
 **balramadan/balramadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
