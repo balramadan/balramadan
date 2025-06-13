@@ -1,10 +1,10 @@
 ## 👋 Hi there, I'm Iqbal
 💻 Currently training to be a Fullstack Developer<br>
-🌐 Check out my portfolio at [https://iqbalramadan.me](https://iqbalramadan.me)
+🌐 Check out my portfolio at [https://iqbalramadan.my.id](https://iqbalramadan.my.id)
 
 ### ✨ Check me out on social media
 <a href="https://instagram.com/balramadan"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/balramadan"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://iqbalramadan.link/linkedin"><img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ## Technologies:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
