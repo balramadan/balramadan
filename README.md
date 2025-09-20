@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Iqbal
-I am a fresh graduated who is interested in full stack web development and artificial intelligence.<br>
+I'm a fresh graduated who is interested in full stack web development and artificial intelligence.<br>
 🌱 I'm currently learning about how to develop in the cloud<br>
 🌐 Check out my portfolio at [https://iqbalramadan.my.id](https://iqbalramadan.my.id)<br>
 📫 How to reach me? Send mail to hello@iqbalramadan.my.id
