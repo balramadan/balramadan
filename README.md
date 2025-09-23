@@ -44,6 +44,10 @@ I'm a fresh graduated who is interested in full stack web development and artifi
 
 ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/balramadan) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/balramadan) 
+
+---
+<a><div style="justify-content: center;">![](https://vbr.nathanchung.dev/badge?page_id=balramadan)</div></a>
+
 <!--
 **balramadan/balramadan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
