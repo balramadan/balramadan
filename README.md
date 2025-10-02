@@ -1,7 +1,7 @@
 <h1 style="text-align: center;" align="center">👋 Hi there, I'm Iqbal</h1>
 <p align="center">I'm a fresh graduated who is interested in full stack web development and artificial intelligence.<br>
 🌱 I'm currently learning about how to develop in the cloud<br>
-🌐 Check out my portfolio at [https://iqbalramadan.my.id](https://iqbalramadan.my.id)<br>
+🌐 Check out my portfolio at <a href="https://iqbalramadan.my.id">https://iqbalramadan.my.id</a><br>
 📫 How to reach me? Send mail to hello@iqbalramadan.my.id</p>
 
 ## Socials:
