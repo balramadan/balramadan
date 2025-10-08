@@ -1,17 +1,37 @@
 <h1 style="text-align: center;" align="center">👋 Hi there, I'm Iqbal</h1>
-<p align="left">I'm a fresh graduated who is interested in full stack web development and artificial intelligence.<br>
-🌱 I'm currently learning about how to develop in the cloud<br>
-🌐 Check out my portfolio at <a href="https://iqbalramadan.my.id">https://iqbalramadan.my.id</a><br>
-📫 How to reach me? Send mail to <a href="mailto:hello@iqbalramadan.my.id">hello@iqbalramadan.my.id</a></p>
-<div align="left">
-<a href="https://facebook.com/balramadan_"><img src="https://img.shields.io/badge/Facebook-%23FFFFFF.svg?logo=Facebook&logoColor=%23333" /></a>
-<a href="https://instagram.com/balramadan"><img src="https://img.shields.io/badge/Instagram-%23FFFFFF.svg?logo=Instagram&logoColor=%23333" /></a>
-<a href="https://stackoverflow.com/users/17041516"><img src="https://img.shields.io/badge/-Stackoverflow-FFFFFF?logo=stack-overflow&logoColor=%23333" /></a>
-<a href="mailto:hello@iqbalramadan.my.id"><img src="https://img.shields.io/badge/Gmail-FFFFFF?logo=gmail&logoColor=%23333" /></a>
-<a href="https://linkedin.com/in/balramadan"><img src="https://img.shields.io/badge/LinkedIn-%23FFFFFF.svg?logo=LinkedIn&logoColor=%23333"/></a>
-</div>
 
-## Technologies:
+<img align="left" src="https://github.com/balramadan.png" width="360" />
+
+<div align="" style="grid-column: span 6 / span 6; margin-left: 12px;">
+  <p>I'm a fresh graduated who is interested in full stack web development and artificial intelligence.<br>
+  🌱 I'm currently learning about how to develop in the cloud<br>
+  🌐 Check out my portfolio at <a href="https://iqbalramadan.my.id">https://iqbalramadan.my.id</a><br>
+  📫 How to reach me? Send mail to <a href="mailto:hello@iqbalramadan.my.id">hello@iqbalramadan.my.id</a></p>
+  <div>
+    <a href="https://facebook.com/balramadan_"><img src="https://img.shields.io/badge/Facebook-%23FFFFFF.svg?logo=Facebook&logoColor=%23333" /></a>
+    <a href="https://instagram.com/balramadan"><img src="https://img.shields.io/badge/Instagram-%23FFFFFF.svg?logo=Instagram&logoColor=%23333" /></a>
+    <a href="https://stackoverflow.com/users/17041516"><img src="https://img.shields.io/badge/-Stackoverflow-FFFFFF?logo=stack-overflow&logoColor=%23333" /></a>
+    <a href="mailto:hello@iqbalramadan.my.id"><img src="https://img.shields.io/badge/Gmail-FFFFFF?logo=gmail&logoColor=%23333" /></a>
+    <a href="https://linkedin.com/in/balramadan"><img src="https://img.shields.io/badge/LinkedIn-%23FFFFFF.svg?logo=LinkedIn&logoColor=%23333"/></a>
+  </div>
+</div>
+  
+<hr />
+
+<!--START_SECTION:waka-->
+
+```txt
+Vue.js       13 mins         ██████████████░░░░░░░░░░░   56.51 %
+JavaScript   5 mins          ██████░░░░░░░░░░░░░░░░░░░   23.44 %
+TypeScript   3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.18 %
+Bash         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+```
+
+<!--END_SECTION:waka-->
+<p style="font-size: 0.75rem;">Recorded since October 8, 2025</p>
+<hr />
+
+#### Technologies:
 <div align="left">
 <a href="#"><img src="https://img.shields.io/badge/Javascript-%23FFFFFF.svg?logo=javascript&logoColor=%23333" alt="JavaScript"></a>
 <a href="#"><img src="https://img.shields.io/badge/TypeScript-FFFFFF?logo=typescript&logoColor=333" alt="TypeScript"></a>
@@ -38,23 +58,16 @@
 <a href="#"><img src="https://img.shields.io/badge/Figma-FFF?logo=figma&logoColor=333" alt="Figma"></a>
 </div>
 
-<!--START_SECTION:waka-->
-
-```txt
-Vue.js       13 mins         ██████████████░░░░░░░░░░░   56.51 %
-JavaScript   5 mins          ██████░░░░░░░░░░░░░░░░░░░   23.44 %
-TypeScript   3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.18 %
-Bash         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-```
-
-<!--END_SECTION:waka-->
-
 #### 💰 You can help me by Donating
 <div align="left">
 <a href="https://paypal.me/balramadan"><img src="https://img.shields.io/badge/PayPal-fff?style=for-the-badge&logo=paypal&logoColor=333" alt="PayPal"></a>
 <a href="https://ko-fi.com/balramadan"><img src="https://img.shields.io/badge/Ko--fi-fff?style=for-the-badge&logo=ko-fi&logoColor=333" alt="Ko-Fi"></a>
 </div>
 <div align="left"><img src="https://vbr.nathanchung.dev/badge?page_id=balramadan" /></div>
+
+<!--
+
+-->
 
 <!-- ## GitHub Stats:
 <div align="center">
