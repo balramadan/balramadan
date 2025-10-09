@@ -1,10 +1,9 @@
 <h1 style="text-align: center;" align="center">👋 Hi there, I'm Iqbal</h1>
 
-<img align="left" src="https://github.com/balramadan.png" width="360" />
-
+<img align="left" src="konosuba.gif" width="300" />
 <div align="" style="grid-column: span 6 / span 6; margin-left: 12px;">
-  <p>I'm a fresh graduated who is interested in full stack web development and artificial intelligence.<br>
-  🌱 I'm currently learning about how to develop in the cloud<br>
+  <p align="">I'm a fresh graduated who is interested in full stack web development and artificial intelligence.<br>
+  🌱 I'm currently learning about mobile development<br>
   🌐 Check out my portfolio at <a href="https://iqbalramadan.my.id">https://iqbalramadan.my.id</a><br>
   📫 How to reach me? Send mail to <a href="mailto:hello@iqbalramadan.my.id">hello@iqbalramadan.my.id</a></p>
   <div>
