@@ -1,6 +1,6 @@
 <h1 style="text-align: center;" align="center">👋 Hi there, I'm Iqbal</h1>
 
-<img align="left" src="konosuba.gif" width="300" />
+<img align="left" src="https://github.com/balramadan.png" width="360" />
 <div align="" style="grid-column: span 6 / span 6; margin-left: 12px;">
   <p align="">I'm a fresh graduated who is interested in full stack web development and artificial intelligence.<br>
   🌱 I'm currently learning about mobile development<br>
