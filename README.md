@@ -20,11 +20,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js                     36 hrs 2 mins   █████████░░░░░░░░░░░░░░░░   36.30 %
-Kotlin                     22 hrs 42 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.87 %
-XML                        20 hrs 51 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.01 %
-JavaScript                 8 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 %
-TypeScript                 4 hrs 14 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 %
+Vue.js                     37 hrs 18 mins  █████████░░░░░░░░░░░░░░░░   35.78 %
+Kotlin                     22 hrs 42 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.78 %
+XML                        20 hrs 51 mins  █████░░░░░░░░░░░░░░░░░░░░   20.01 %
+JavaScript                 8 hrs 33 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+TypeScript                 7 hrs 56 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 %
 ```
 
 <!--END_SECTION:waka-->
