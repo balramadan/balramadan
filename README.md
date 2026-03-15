@@ -28,16 +28,17 @@ Bash                       22 hrs 42 mins        █░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<p style="font-size: 0.75rem;">Recorded since October 8, 2025</p>
+<!-- <p style="font-size: 0.75rem;">Recorded since October 8, 2025</p> -->
 <hr />
 
 #### Technologies:
 <div align="left">
+<a href="#"><img src="https://img.shields.io/badge/Node.js-FFF?logo=node.js&logoColor=333" alt="NodeJS"></a>
+<a href="#"><img src="https://img.shields.io/badge/Bun-FFF?logo=bun&logoColor=333" alt="NodeJS"></a>
 <a href="#"><img src="https://img.shields.io/badge/Javascript-%23FFFFFF.svg?logo=javascript&logoColor=%23333" alt="JavaScript"></a>
 <a href="#"><img src="https://img.shields.io/badge/TypeScript-FFFFFF?logo=typescript&logoColor=333" alt="TypeScript"></a>
 <a href="#"><img src="https://img.shields.io/badge/Python-FFF?logo=python&logoColor=333" alt="Python"></a>
 <a href="#"><img src="https://img.shields.io/badge/PHP-%23FFF.svg?logo=php&logoColor=333" alt="PHP"></a>
-<a href="#"><img src="https://img.shields.io/badge/Node.js-FFF?logo=node.js&logoColor=333" alt="NodeJS"></a>
 <a href="#"><img src="https://img.shields.io/badge/Vue.js-FFF?logo=vuedotjs&logoColor=333" alt="Vue.js"></a>
 <a href="#"><img src="https://img.shields.io/badge/React-%23FFF.svg?logo=react&logoColor=%23333" alt="React"></a>
 <a href="#"><img src="https://img.shields.io/badge/Nuxt-FFF?logo=nuxt&logoColor=333" alt="Nuxt"></a>
