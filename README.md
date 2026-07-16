@@ -4,8 +4,8 @@
 <div align="" style="grid-column: span 6 / span 6; margin-left: 12px;">
   <p align="">I'm a fresh graduated who is interested in full stack web development and artificial intelligence.<br>
   🌱 I'm currently learning about mobile development<br>
-  🌐 Check out my portfolio at <a href="https://iqbalramadan.my.id">https://iqbalramadan.my.id</a><br>
-  📫 How to reach me? Send mail to <a href="mailto:hello@iqbalramadan.my.id">hello@iqbalramadan.my.id</a></p>
+  🌐 Check out my portfolio at <a href="https://helloiqbal.me">https://helloiqbal.me</a><br>
+  📫 How to reach me? Send mail to <a href="mailto:mail@helloiqbal.me">mail@helloiqbal.me</a></p>
   <div>
     <a href="https://facebook.com/balramadan_"><img src="https://img.shields.io/badge/Facebook-%23FFFFFF.svg?logo=Facebook&logoColor=%23333" /></a>
     <a href="https://instagram.com/balramadan"><img src="https://img.shields.io/badge/Instagram-%23FFFFFF.svg?logo=Instagram&logoColor=%23333" /></a>
