@@ -1,21 +1,103 @@
-<h1 style="text-align: center;" align="center">👋 Hi there, I'm Iqbal</h1>
+<div align="center">
 
-<!-- <img align="left" src="https://github.com/balramadan.png" width="360" /> -->
-<div align="" style="grid-column: span 6 / span 6; margin-left: 12px;">
-  <p align="">I'm a fresh graduated who is interested in full stack web development and artificial intelligence.<br>
-  🌱 I'm currently learning about mobile development<br>
-  🌐 Check out my portfolio at <a href="https://helloiqbal.me">https://helloiqbal.me</a><br>
-  📫 How to reach me? Send mail to <a href="mailto:mail@helloiqbal.me">mail@helloiqbal.me</a></p>
-  <div>
-    <a href="https://facebook.com/balramadan_"><img src="https://img.shields.io/badge/Facebook-%23FFFFFF.svg?logo=Facebook&logoColor=%23333" /></a>
-    <a href="https://instagram.com/balramadan"><img src="https://img.shields.io/badge/Instagram-%23FFFFFF.svg?logo=Instagram&logoColor=%23333" /></a>
-    <a href="https://stackoverflow.com/users/17041516"><img src="https://img.shields.io/badge/-Stackoverflow-FFFFFF?logo=stack-overflow&logoColor=%23333" /></a>
-    <a href="mailto:hello@iqbalramadan.my.id"><img src="https://img.shields.io/badge/Gmail-FFFFFF?logo=gmail&logoColor=%23333" /></a>
-    <a href="https://linkedin.com/in/balramadan"><img src="https://img.shields.io/badge/LinkedIn-%23FFFFFF.svg?logo=LinkedIn&logoColor=%23333"/></a>
-  </div>
+  <!-- Header Animated Typing SVG -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+there%2C+I'm+Iqbal%F0%9F%91%8B;Full+Stack+Developer;Building+Open+Source;Exploring+Mobile+%26+AI" alt="Typing SVG" /></a>
+
+  <p align="center">
+    <b>Software Engineer</b> passionate about full-stack web systems, open-source Go libraries, and clean architecture.
+  </p>
+
+  <!-- Quick Links & Contact Badges -->
+  <p align="center">
+    <a href="https://helloiqbal.me"><img src="https://img.shields.io/badge/Portfolio-helloiqbal.me-41B883?style=flat-square&logo=globe&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/balramadan"><img src="https://img.shields.io/badge/LinkedIn-Iqbal_Ramadan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:mail@helloiqbal.me"><img src="https://img.shields.io/badge/Email-mail@helloiqbal.me-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://stackoverflow.com/users/17041516"><img src="https://img.shields.io/badge/StackOverflow-balramadan-F48024?style=flat-square&logo=stack-overflow&logoColor=white" /></a>
+  </p>
+
 </div>
-  
+
 <hr />
+
+### 🚀 About Me
+
+- 🛠️ Crafting scalable web applications with **Vue.js**, **Express.js**, and **Bun / ElysiaJS**.
+- 📦 Currently building and maintaining high-performance open-source **Go (Golang)** libraries.
+- 📱 Exploring native Android development using **Kotlin**.
+- 🐧 Primary OS of choice: **Linux Mint**.
+
+---
+
+### 💖 Support My Open Source Work
+
+If you find my projects or open-source libraries helpful, consider supporting my work!
+
+<p>
+  <a href="https://github.com/sponsors/balramadan">
+    <img src="https://img.shields.io/badge/Sponsor-GitHub_Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+  </a>
+  <a href="https://ko-fi.com/balramadan">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
+  </a>
+  <a href="https://paypal.me/balramadan">
+    <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack
+
+#### 🗣️ Languages
+<p>
+  <img src="https://img.shields.io/badge/Go-111111?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-111111?style=flat-square&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-111111?style=flat-square&logo=GNU-bash&logoColor=white" />
+</p>
+
+#### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-111111?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt.js-111111?style=flat-square&logo=nuxt&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-111111?style=flat-square&logo=astro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/UnoCSS-111111?style=flat-square&logo=unocss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-111111?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
+
+#### ⚙️ Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-111111?style=flat-square&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-111111?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/ElysiaJS-111111?style=flat-square&logo=elysia&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-111111?style=flat-square&logo=prisma&logoColor=white" />
+</p>
+
+#### 🛠️ DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Linux_Mint-111111?style=flat-square&logo=linuxmint&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-111111?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-%23111111.svg?logo=google-cloud&logoColor=white" />
+  <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-111111?logo=msazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=white" />
+</p>
+
+---
+
+### 📊 WakaTime Coding Activity
 
 <!--START_SECTION:waka-->
 
@@ -28,51 +110,3 @@ Bash                       31 hrs 51 mins        █░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-<!-- <p style="font-size: 0.75rem;">Recorded since October 8, 2025</p> -->
-<hr />
-
-#### Technologies:
-<div align="left">
-<a href="#"><img src="https://img.shields.io/badge/Node.js-FFF?logo=node.js&logoColor=333" alt="NodeJS"></a>
-<a href="#"><img src="https://img.shields.io/badge/Bun-FFF?logo=bun&logoColor=333" alt="NodeJS"></a>
-<a href="#"><img src="https://img.shields.io/badge/Javascript-%23FFFFFF.svg?logo=javascript&logoColor=%23333" alt="JavaScript"></a>
-<a href="#"><img src="https://img.shields.io/badge/TypeScript-FFFFFF?logo=typescript&logoColor=333" alt="TypeScript"></a>
-<a href="#"><img src="https://img.shields.io/badge/Python-FFF?logo=python&logoColor=333" alt="Python"></a>
-<a href="#"><img src="https://img.shields.io/badge/PHP-%23FFF.svg?logo=php&logoColor=333" alt="PHP"></a>
-<a href="#"><img src="https://img.shields.io/badge/Vue.js-FFF?logo=vuedotjs&logoColor=333" alt="Vue.js"></a>
-<a href="#"><img src="https://img.shields.io/badge/React-%23FFF.svg?logo=react&logoColor=%23333" alt="React"></a>
-<a href="#"><img src="https://img.shields.io/badge/Nuxt-FFF?logo=nuxt&logoColor=333" alt="Nuxt"></a>
-<a href="#"><img src="https://img.shields.io/badge/Next.js-FFF?logo=next.js&logoColor=333" alt="Next.js"></a>
-<a href="#"><img src="https://img.shields.io/badge/Express.js-%23FFF.svg?logo=express&logoColor=%23333" alt="Express.js"></a>
-<a href="#"><img src="https://img.shields.io/badge/Tailwind%20CSS-%23FFF.svg?logo=tailwind-css&logoColor=333" alt="TailwindCSS"></a>
-<a href="#"><img src="https://img.shields.io/badge/Bootstrap-FFF?logo=bootstrap&logoColor=333" alt="Bootstrap"></a>
-<a href="#"><img src="https://img.shields.io/badge/unocss-FFF?logo=unocss&logoColor=333" alt="UnoCSS"></a>
-<a href="#"><img src="https://img.shields.io/badge/MySQL-FFF?logo=mysql&logoColor=333" alt="MySQL"></a>
-<a href="#"><img src="https://img.shields.io/badge/Postgres-%23FFF.svg?logo=postgresql&logoColor=333" alt="Postgres"></a>
-<a href="#"><img src="https://img.shields.io/badge/Supabase-FFF?logo=supabase&logoColor=333" alt="Supabase"></a>
-<a href="#"><img src="https://img.shields.io/badge/MongoDB-%23FFF.svg?logo=mongodb&logoColor=333" alt="MongoDB"></a>
-<a href="#"><img src="https://img.shields.io/badge/Prisma-FFF?logo=prisma&logoColor=333" alt="Prisma"></a>
-<a href="#"><img src="https://img.shields.io/badge/Nginx-%23FFF.svg?logo=nginx&logoColor=333" alt="Nginx"></a>
-<a href="#"><img src="https://img.shields.io/badge/JWT-FFF?logo=JSON%20web%20tokens&logoColor=333" alt="JWT"></a>
-<a href="#"><img src="https://img.shields.io/badge/Strapi-%23FFF.svg?logo=strapi&logoColor=333" alt="Strapi"></a>
-<a href="#"><img src="https://img.shields.io/badge/WordPress-%23FFF.svg?logo=wordpress&logoColor=333" alt="WordPress"></a>
-<a href="#"><img src="https://img.shields.io/badge/Figma-FFF?logo=figma&logoColor=333" alt="Figma"></a>
-</div>
-
-#### 💰 You can help me by Donating
-<div align="left">
-<a href="https://paypal.me/balramadan"><img src="https://img.shields.io/badge/PayPal-fff?style=for-the-badge&logo=paypal&logoColor=333" alt="PayPal"></a>
-<a href="https://ko-fi.com/balramadan"><img src="https://img.shields.io/badge/Ko--fi-fff?style=for-the-badge&logo=ko-fi&logoColor=333" alt="Ko-Fi"></a>
-</div>
-<div align="left"><img src="https://vbr.nathanchung.dev/badge?page_id=balramadan" /></div>
-
-<!--
-
--->
-
-<!-- ## GitHub Stats:
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=balramadan&theme=codeSTACKr&hide_border=false&include_all_commits=true" alt=""><br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=balramadan&theme=codeSTACKr&hide_border=false" alt=""><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balramadan&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="">
-</div> -->
