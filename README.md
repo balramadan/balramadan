@@ -102,11 +102,11 @@ If you find my projects or open-source libraries helpful, consider supporting my
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 444 hrs 1 min         █████████████░░░░░░░░░░░░   52.42 %
-Vue.js                     101 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-Prisma                     51 hrs 17 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
-Kotlin                     32 hrs 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-Bash                       31 hrs 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+TypeScript                 444 hrs 1 min         █████████████░░░░░░░░░░░░   52.16 %
+Vue.js                     101 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+Prisma                     51 hrs 17 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
+Kotlin                     32 hrs 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+Bash                       31 hrs 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
 ```
 
 <!--END_SECTION:waka-->
