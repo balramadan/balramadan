@@ -102,10 +102,10 @@ If you find my projects or open-source libraries helpful, consider supporting my
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript                 445 hrs 10 mins       █████████████░░░░░░░░░░░░   51.85 %
+TypeScript                 445 hrs 10 mins       █████████████░░░░░░░░░░░░   51.83 %
 Vue.js                     101 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
 Prisma                     51 hrs 17 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-Kotlin                     32 hrs 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 %
+Kotlin                     32 hrs 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
 Bash                       31 hrs 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
 ```
 
